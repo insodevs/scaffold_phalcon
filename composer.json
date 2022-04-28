@@ -1,0 +1,14 @@
+{
+  "name": "insodev/scaffold",
+  "description": "Phalcon skeleton",
+  "type": "project",
+  "authors": [
+    {
+      "name": "kaspian",
+      "email": "insodevs@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
